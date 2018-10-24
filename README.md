@@ -4,10 +4,29 @@
   
   The detailed workflow is explained in **style_transfer.ipynb**. An in-depth analysis of the results and comparision with the Prisma app is also shown in **images** folder.
   
-  Summary of results is as follows:
+## Summary of results is as follows:
   
-  ![Original](/images/original/original_2.jpg width="480")
-  ![Stylised](/images/created-by-this/heisenberg_2.jpg)
+  1. #### Image 1
+    ![Original](/images/original/original_2.jpg)
+    ![Stylised](/images/created-by-this/heisenberg_2.jpg)
+  
+  
+  2. #### Image 2
+    ![Original](/images/original/original_1.jpg)
+    ![Stylised](/images/created-by-this/starry-night_1.jpg)
+  
+  
+  3. #### Image 3
+    ![Original](/images/original/original_1.jpg)
+    ![Stylised](/images/created-by-this/mononoke_1.jpg)
+  
+  
+  4. #### Image 4
+    ![Original](/images/original/original_4.jpg)
+    ![Stylised](/images/created-by-thisstyle-6_4.jpg)
+    
+    
+## Additional Details
   
   Implementations are made using **Keras**. This example was inspired by section 8.3 of the book **Deep Learning with Python** written by Keras author Francois Chollet. The original paper by Gatys et. al. can be found at https://arxiv.org/abs/1508.06576
   
