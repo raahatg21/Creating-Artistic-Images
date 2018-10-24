@@ -10,6 +10,8 @@
   
   Implementations are made using **Keras**. This example was inspired by section 8.3 of the book **Deep Learning with Python** written by Keras author Francois Chollet. The original paper by Gatys et. al. can be found at https://arxiv.org/abs/1508.06576
   
+  More to do: Implement fast neural style transfer based on this paper by Johnson et. al. https://arxiv.org/abs/1603.08155
+  
   The files are created in Google Colab, and input and output images are fed through Google Drive. Link is included.
   
   Comments and Suggestions are welcome :)
