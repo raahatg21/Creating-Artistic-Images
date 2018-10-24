@@ -6,7 +6,8 @@
   
   Summary of results is as follows:
   
-  *To follow soon...*
+  1. ![Original](https://raw.githubusercontent.com/raahatg21/Creating-Artistic-Images/images/original/original_2.jpg)
+     ![Stylised](https://raw.githubusercontent.com/raahatg21/Creating-Artistic-Images/images/created-by-this/heisenberg_2.jpg)
   
   Implementations are made using **Keras**. This example was inspired by section 8.3 of the book **Deep Learning with Python** written by Keras author Francois Chollet. The original paper by Gatys et. al. can be found at https://arxiv.org/abs/1508.06576
   
