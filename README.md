@@ -6,7 +6,8 @@
   
   Summary of results is as follows:
   
-  ![Original](/images/original/original_2.jpg =480x480) ![Stylised](/images/created-by-this/heisenberg_2.jpg)
+  ![Original](/images/original/original_2.jpg =480) 
+  ![Stylised](/images/created-by-this/heisenberg_2.jpg)
   
   Implementations are made using **Keras**. This example was inspired by section 8.3 of the book **Deep Learning with Python** written by Keras author Francois Chollet. The original paper by Gatys et. al. can be found at https://arxiv.org/abs/1508.06576
   
