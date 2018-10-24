@@ -23,10 +23,10 @@
   
   #### Image 4
   ![Original](/images/original/original_4.jpg)
-  ![Stylised](/images/created-by-thisstyle-6_4.jpg)
+  ![Stylised](/images/created-by-this/style-6_4.jpg)
     
     
-## Aditional Details
+## Additional Details
   
   Implementations are made using **Keras**. This example was inspired by section 8.3 of the book **Deep Learning with Python** written by Keras author Francois Chollet. The original paper by Gatys et. al. can be found at https://arxiv.org/abs/1508.06576
   
