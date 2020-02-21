@@ -8,13 +8,9 @@
   
 Content | Style | Output
 ------- | ----- | ------
-
 <img src="https://github.com/raahatg21/Creating-Artistic-Images/blob/master/images/original/original_2.jpg" width="250"> | <img src="https://github.com/raahatg21/Creating-Artistic-Images/blob/master/images/styles/heisenberg.jpg" width="250"> | <img src="https://github.com/raahatg21/Creating-Artistic-Images/blob/master/images/created-by-this/heisenberg_2.jpg" width="250">
-
 <img src="https://github.com/raahatg21/Creating-Artistic-Images/blob/master/images/original/original_1.jpg" width="250"> | <img src="https://github.com/raahatg21/Creating-Artistic-Images/blob/master/images/styles/starry-night.jpg" width="250"> | <img src="https://github.com/raahatg21/Creating-Artistic-Images/blob/master/images/created-by-this/starry-night_1.jpg" width="250">
-  
 <img src="https://github.com/raahatg21/Creating-Artistic-Images/blob/master/images/original/original_1.jpg" width="250"> | <img src="https://github.com/raahatg21/Creating-Artistic-Images/blob/master/images/styles/mononoke.jpg" width="250"> | <img src="https://github.com/raahatg21/Creating-Artistic-Images/blob/master/images/created-by-this/mononoke_1.jpg" width="250">
-  
 <img src="https://github.com/raahatg21/Creating-Artistic-Images/blob/master/images/original/original_4.jpg" width="250"> | <img src="https://github.com/raahatg21/Creating-Artistic-Images/blob/master/images/styles/style-6.jpg" width="250"> | <img src="https://github.com/raahatg21/Creating-Artistic-Images/blob/master/images/created-by-this/style-6_4.jpg" width="250">  
 
 
